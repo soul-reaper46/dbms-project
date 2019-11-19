@@ -15,7 +15,7 @@
 	</head>
 	<body>
 		<?php include"navbar.php";?><br>
-		<img src="img/1.jpg" style="margin-left:90px;" class="sha">
+		<img src="img/1.png" style="margin-left:500px;" class="sha">
 			<div id="section">
 				<?php include"sidebar.php";?><br>
 				<div class="content">
